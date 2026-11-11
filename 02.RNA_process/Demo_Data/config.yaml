@@ -1,0 +1,15 @@
+samples: "samples.txt"
+raw_dir: "."
+reference:
+  gtf: "chicken_demo.gtf"
+  star_index: "/path/to/STAR_index"
+  enhancer_saf: "enhancer_demo.saf"
+  lncrna_saf: "lncRNA_demo.saf"
+  salmon_index: "/path/to/Salmon_index"
+  utr3_bed: "chicken_demo.3utr.bed"
+software:
+  star: STAR
+  featurecounts: featureCounts
+  salmon: salmon
+  bedtools: bedtools
+  dapars2: /path/to/DaPars2_Multi_Sample.py
