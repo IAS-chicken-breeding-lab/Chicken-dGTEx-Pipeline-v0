@@ -1,0 +1,4 @@
+sample_id	tissue	bam	phased_vcf	vcf_sample
+XJ001	XJ	/path/to/XJ001.wasp.bam	/path/to/cohort.phased.vcf.gz	XJ001
+XJ002	XJ	/path/to/XJ002.wasp.bam	/path/to/cohort.phased.vcf.gz	XJ002
+GZ001	GZ	/path/to/GZ001.wasp.bam	/path/to/cohort.phased.vcf.gz	GZ001
