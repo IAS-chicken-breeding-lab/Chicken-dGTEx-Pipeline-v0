@@ -1,7 +1,10 @@
 Analysis pipelines for the pilot phase (V0) of Chicken dGTEx
+
 1. Introduction
 As an essential component of the ongoing Farm animal Genotype-Tissue Expression (FarmGTEx, https://www.farmgtex.org/), the Chicken Developmental GTEx (cdGTEx) aims to establish a comprehensive public catalogue of genetic regulatory variants across diverse biological contexts (e.g., tissues, developmental stages, sex, and genetic backgrounds) in chickens. This resource will serve as a foundational reference for understanding the genetic regulation of basic biological processes and complex traits. It will also support research in comparative transcriptomics, livestock evolution and domestication, precision breeding, sustainable agriculture, and human biomedicine.
+
 ![Chicken dGTEx Pipeline Overview](https://raw.githubusercontent.com/IAS-chicken-breeding-lab/Chicken-dGTEx-Pipeline-v0/main/Figure/Figure1.png)
+
 2. Analysis pipelines
 This repository contains code used in data analysis of the cdGTEx pilot phase, including:
 01. WGS_process: whole-genome sequencing read processing, alignment, variant calling, joint genotyping, quality control, and population structure analysis.
